@@ -20,8 +20,15 @@ new_venv/
 
 *.pyc
 *.pyw
-*.bat
+!setup_and_run.bat
 
+# Standard Python
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
 start_repo.py
 gg.bat
 

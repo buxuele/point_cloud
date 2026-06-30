@@ -1,0 +1,11 @@
+# Auto detect text files and perform line-ending normalization
+* text=auto
+
+# Python scripts always LF
+*.py text eol=lf
+
+# Windows batch scripts always CRLF
+*.bat text eol=crlf
+
+# Shell scripts always LF
+*.sh text eol=lf
