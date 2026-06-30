@@ -1,0 +1,29 @@
+# 文件夹
+.idea/
+.vscode/
+.kiro/
+.next/
+
+__pycache__/
+node_modules/
+flask_venv/
+windows-sdk/
+
+
+要求描述/
+
+new_venv/
+# 一些关键文件！！
+*.json
+.env
+.env.local
+
+*.pyc
+*.pyw
+*.bat
+
+start_repo.py
+gg.bat
+
+cat_code.py
+my_files.txt 
