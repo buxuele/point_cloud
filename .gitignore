@@ -20,7 +20,6 @@ new_venv/
 
 *.pyc
 *.pyw
-!setup_and_run.bat
 
 # Standard Python
 venv/
@@ -30,7 +29,5 @@ dist/
 *.egg-info/
 .pytest_cache/
 start_repo.py
-gg.bat
-
 cat_code.py
 my_files.txt 
