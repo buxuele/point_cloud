@@ -8,8 +8,6 @@ __pycache__/
 node_modules/
 flask_venv/
 
-要求描述/
-
 new_venv/
 # 一些关键文件！！
 *.json
